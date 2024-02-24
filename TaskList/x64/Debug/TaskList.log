@@ -1,0 +1,8 @@
+﻿  TaskList.cpp
+D:\Programms\TaskList\TaskList\TaskList.cpp(11,8): warning C4101: code: неиспользованная локальная переменная
+D:\Programms\TaskList\TaskList\TaskList.cpp(10,8): warning C4101: key: неиспользованная локальная переменная
+D:\Programms\TaskList\TaskList\TaskList.cpp(39,15): warning C4101: error: неиспользованная локальная переменная
+D:\Programms\TaskList\TaskList\TaskList.cpp(57,15): warning C4101: error: неиспользованная локальная переменная
+D:\Programms\TaskList\TaskList\TaskList.cpp(74,15): warning C4101: error: неиспользованная локальная переменная
+D:\Programms\TaskList\TaskList\TaskList.cpp(91,15): warning C4101: error: неиспользованная локальная переменная
+  TaskList.vcxproj -> D:\Programms\TaskList\x64\Debug\TaskList.exe
